@@ -1,4 +1,4 @@
-### Salve ! Eu sou Felipe de Matos 🤙
+### Salve ! Eu me chamo Felipe de Matos 🤙
 
 - 🏠 Salvador (BA) | 22 Anos
 - 📚 Estudando Typescript, ReactJS 
