@@ -1,9 +1,9 @@
 ### Salve ! Eu me chamo Felipe de Matos 🤙
 
-- 🏠 Salvador (BA) | 22 Anos
-- 📚 Estudando Typescript, ReactJS 
-- 🥅 2022 Goals: Concretizar meus projetos 
-- 💭 Buscando Oportunidades
+- 🏠 Salvador (BA) | 23 Anos
+- 📚 Estudando PHP, SQL 
+- 🥅 2023 Goals: Projetos Concluídos
+- 💭 Focado na evolução !
 
 <div align="center">
   <a href="https://github.com/felipedmats">
